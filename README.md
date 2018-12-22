@@ -1,5 +1,5 @@
 # vim
-hengliy'vim
+the vimrc of hengliy
 
 ## 1、安装vim
 >     $ sudo apt-get install vim
