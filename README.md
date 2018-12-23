@@ -31,10 +31,10 @@ the vimrc of hengliy
 将color文件夹放在.vim文件夹内即可
 
 ## 5、安装Airline-theme 
-> https://github.com/vim-airline/vim-airline-themes 下载并用里面的themes文件夹替换~/.vim/bundle/Airline/autoload/airline/themes文件夹
+> https://github.com/vim-airline/vim-airline-themes 下载并用里面的themes文件夹替换 ~/.vim/bundle/Airline/autoload/airline/themes文件夹
 
 ## 6、安装oh my zsh
-> $ sudo apt-get install zsh
-> $ sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+>     $ sudo apt-get install zsh
+>     $ sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 
 
